@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sam-DZ | شحن الألعاب</title>
+</head>
+<body style="font-family: Arial; text-align: center; direction: rtl;">
+  <h1>مرحبًا بكم في Sam-DZ</h1>
+  <p>نقدم خدمات شحن:</p>
+  <ul>
+    <li>ببجي موبايل</li>
+    <li>فري فاير</li>
+    <li>بطاقات Google Play</li>
+    <li>بطاقات iTunes</li>
+  </ul>
+  <p>للطلب، تواصل معنا عبر: <br>
+    <a href="mailto:support@samdz.online">support@samdz.online</a>
+  </p>
+</body>
+</html>
